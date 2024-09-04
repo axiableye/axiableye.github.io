@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://axiableye.github.io/sitemap.html.gz
+Sitemap: https://axiableye.github.io/app/sitemap.html.gz
+Sitemap: https://axiableye.github.io/assets/sitemap.html.gz
+Sitemap: https://axiableye.github.io/css/sitemap.html.gz
+Sitemap: https://axiableye.github.io/includes/sitemap.html.gz
+Sitemap: https://axiableye.github.io/item/sitemap.html.gz
+Sitemap: https://axiableye.github.io/src/sitemap.html.gz
